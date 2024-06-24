@@ -1,1 +1,1 @@
-<h3>Projeto desenvolvido no Evento "Intensivão de Power BI" na Hashtag Treinamentos.</h3>
+<p>Projeto desenvolvido no Evento "Intensivão de Power BI" da Hashtag Treinamentos.</p>
